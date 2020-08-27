@@ -1,5 +1,7 @@
 # Minecraft-Digital-Circuit
 
+以下为原作者的话：
+
 本项目利用Minecraft游戏中的简单信号元件构建出复杂的组合和时序数字“电路”，通过一种直观的三维可视化方式展示一个较为纯粹的可计算模型。这个模型不需要考虑现实中的晶体管电路所涉及到的电气特性和器件工艺等问题，是一个虚拟的图灵完备的逻辑结构。
 
 在saves目录下包含三个存档
@@ -44,3 +46,10 @@
 ![Image text](https://github.com/Alpha21016/Minecraft-Digital-Circuit/blob/master/images/Basic/screen-night.jpg)
 ![Image text](https://github.com/Alpha21016/Minecraft-Digital-Circuit/blob/master/images/Basic/screen-back.jpg)
 ![Image text](https://github.com/Alpha21016/Minecraft-Digital-Circuit/blob/master/images/Basic/map.png)
+
+
+以下声明：
+
+本项目是王正鑫基于[原仓库](https://github.com/Alpha21016/Minecraft-Digital-Circuit/)所修改。未来可能会加入更多的功能。恳请大家支持！
+
+本项目全部开源，非盈利，所有内容以我本人的文章和存档为准。
